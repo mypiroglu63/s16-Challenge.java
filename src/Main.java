@@ -135,7 +135,7 @@ public class Main {
                     break;
 
                 case "10":
-                    System.out.print("Kitap ID: ");
+                    System.out.print("Kitap ID:. ");
                     kitapId = scanner.nextLine();
                     System.out.print("Okuyucu ID: ");
                     okuyucuId = scanner.nextLine();
