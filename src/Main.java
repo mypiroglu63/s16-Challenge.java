@@ -37,7 +37,7 @@ public class Main {
 
         String secim;
         do {
-            System.out.println("1. Yeni Kitap ve Yazar Ekle");
+            System.out.println("1. Yeni Kitap ve Yazar Ekle.");
             System.out.println("2. Kitap Ara (ID)");
             System.out.println("3. Kitap Güncelle");
             System.out.println("4. Kitap Sil");
