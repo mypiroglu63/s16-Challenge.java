@@ -126,7 +126,7 @@ public class Main {
                     kitapId = scanner.nextLine();
                     System.out.print("Okuyucu ID: ");
                     String okuyucuId = scanner.nextLine();
-                    System.out.print("İade Günü (1-365): ");
+                    System.out.print("İade Günü (1-365):. ");
                     int iadeGunu = scanner.nextInt();
                     scanner.nextLine();
 
